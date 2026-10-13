@@ -53,4 +53,5 @@ A full-stack app that replaces registers and Excel for coaching & tuition centre
 
 Need a website or app for your business? Let's talk.
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?logo=whatsapp&logoColor=white)](https://wa.me/918077712232?text=Hi%20Anoop%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project.)
 [![Email](https://img.shields.io/badge/Email-anooptaliyan%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:anooptaliyan@gmail.com)
