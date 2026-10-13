@@ -51,4 +51,6 @@ A full-stack app that replaces registers and Excel for coaching & tuition centre
 
 ## 📫 Let's work together
 
-Need a website or app for your business? Open an issue on any repo or reach me through my portfolio.
+Need a website or app for your business? Let's talk.
+
+[![Email](https://img.shields.io/badge/Email-anooptaliyan%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:anooptaliyan@gmail.com)
